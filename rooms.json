@@ -1,0 +1,18 @@
+{
+    "rooms": [
+        {
+            "name": "M2Z08",
+            "reservation_info": [
+                {
+                    "day": 1,
+                    "hour": [
+                        9,
+                        10,
+                        11
+                    ],
+                    "duration": 3
+                }
+            ]
+        }
+    ]
+}
